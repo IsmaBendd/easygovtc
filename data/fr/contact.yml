@@ -1,0 +1,28 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Nous contacter
+  subtitle : Détails du contact
+  content : Réservez dès maintenant votre trajet avec notre service de transport VTC, chauffeur privé et taxi, et découvrez une expérience de voyage inégalée, où fiabilité, confort et satisfaction sont nos maîtres-mots.
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Nantes/La Baule, France"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +33 6 59 33 27 81"
+        
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: easygovtc@gmail.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "votre nom"
+    email : "Votre email"
+    subject : "Sujet"
+    message : "Message"
+    submit : "Soumettre"

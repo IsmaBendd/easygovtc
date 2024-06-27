@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/car.webp"
+  bg_image : "images/backgrounds/car.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Une Experience unique de transport privé"
+  content : "Votre Service de Transport VTC, Chauffeur Privé et Taxi dans la Région Nantaise!"
+  button:
+    enable : true
+    label : "Nous décrouvrir"
+    link : "#about"

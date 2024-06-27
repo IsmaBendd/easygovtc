@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Nos Services
+  service_item :
+    # service item loop
+    - name : Transferts aéroportuaires
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Offrir un service de transport fiable et ponctuel vers et depuis les aéroports, avec une assistance pour les bagages et une surveillance des vols pour ajuster les horaires de prise en charge.
+      
+    # service item loop
+    - name : Tours de ville personnalisés
+      icon : ti-location-arrow # themify icon pack : https://themify.me/themify-icons
+      content : Proposer des visites guidées des principales attractions touristiques de la ville, adaptées aux préférences et aux intérêts des clients.
+      
+    # service item loop
+    - name : Transport d'affaires
+      icon : ti-briefcase # themify icon pack : https://themify.me/themify-icons
+      content : Offrir un service de transport professionnel pour les déplacements d'affaires, avec des véhicules confortables et des chauffeurs bien présentés, afin de garantir un trajet agréable et productif.
+      
+    # service item loop
+    - name : Service de chauffeur privé pour événements
+      icon : ti-car # themify icon pack : https://themify.me/themify-icons
+      content : Proposer des services de transport pour des événements spéciaux tels que les mariages, les anniversaires ou les conférences, avec des options de réservation à l'heure ou à la journée.
+      
+    # service item loop
+    - name : Vacances et Plages
+      icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+      content : Proposer des services de transport pour aller sur le bord de mer.
+      
+    # service item loop
+    #- name : Networking
+    #  icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+    #  content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/backgrounds/driver.jpg
+  image_webp : images/backgrounds/driver.webp
+  title : Une Expérience Unique et Professionnel
+  content : "Voyagez avec élégance et tranquillité à Nantes grâce à notre service VTC haut de gamme, où chaque trajet est une expérience de luxe et de sécurité."
+  feature_item : 
+      # feature item loop
+    - title : Ponctualité Exemplaire
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Nos chauffeurs VTC sont toujours à l'heure, garantissant des trajets sans stress et des rendez-vous respectés.
+      
+      # feature item loop
+    - title : Professionnalisme Irréprochable
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Chaque chauffeur est formé pour offrir un service courtois, discret et professionnel à tous nos clients.
+
+      # feature item loop
+    - title : Connaissance Locale
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Grâce à une connaissance approfondie de Nantes et de ses environs, nos chauffeurs choisissent les meilleurs itinéraires pour des trajets rapides et efficaces.
+      
+      # feature item loop
+    - title : Sécurité Prioritaire
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : La sécurité de nos passagers est primordiale, avec des véhicules régulièrement entretenus et des chauffeurs formés aux meilleures pratiques de conduite.

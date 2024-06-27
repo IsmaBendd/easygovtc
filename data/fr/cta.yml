@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/driver2.jpg"
+  bg_image_webp : "images/backgrounds/driver2.webp"
+  title : "Réservez dès maintenant pour un voyage d'exception"
+  content : ""
+  button:
+    enable : true
+    label : "Commencez votre trajet"
+    link : "#contact"

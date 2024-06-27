@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : EasygoVTC
+  about_item :
+  - icon : ti-car # themify icon pack : https://themify.me/themify-icons
+    title : Votre Chauffeur Privé d'Exception à Nantes et La Baule
+    content : Bienvenue chez Easygo VTC, votre partenaire de confiance pour tous vos besoins de transport privé dans la belle ville de Nantes et La Baule et ses environs. Forts d'une expérience solide dans le secteur du transport de personnes, nous nous engageons à offrir à nos clients un service de chauffeur privé VTC haut de gamme, alliant confort, sécurité et ponctualité.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Voyagez avec Élégance et Confort
+    content : Notre mission est de vous offrir une expérience de transport inégalée. Chez Easygo VTC, chaque trajet est une occasion de vous faire sentir spécial et pris en charge. Nous comprenons que votre temps est précieux, c'est pourquoi nous garantissons une prise en charge rapide et des trajets optimisés pour éviter les embouteillages et les retards.
+
+  - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+    title : Transports Haut de Gamme à Nantes et La Baule
+    content : La satisfaction de nos clients est notre priorité absolue. Que ce soit pour vos trajets quotidiens, vos déplacements professionnels ou vos escapades touristiques, nous mettons à votre disposition des véhicules récents et bien entretenus, ainsi que des chauffeurs expérimentés et courtois, formés pour répondre à toutes vos attentes.

@@ -1,0 +1,25 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  counter_item:
+    # counter item loop
+    - title : "Clients transportées"
+      icon : "ti-car" # themify icon pack : https://themify.me/themify-icons
+      count : "800"
+    
+    # counter item loop
+    - title : "Kilomètres Parcourus"
+      icon : "ti-dashboard" # themify icon pack : https://themify.me/themify-icons
+      count : "15000"
+    
+    # counter item loop
+    - title : "Années d'Expérience"
+      icon : "ti-timer" # themify icon pack : https://themify.me/themify-icons
+      count : "5ans"
+    
+    # counter item loop
+    #- title : "Cups of Coffee"
+    #  icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
+    #  count : "250"
