@@ -5,85 +5,141 @@
     <link>http://localhost:1313/easygovtc/</link>
     <description>Recent content on EasygoVTC</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Sep 2023 12:51:12 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/easygovtc/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mon chauffeur Nantais et Baulois !</title>
+      <link>http://localhost:1313/easygovtc/french/blog/simple-blog-post-3/</link>
+      <pubDate>Sat, 23 Sep 2023 12:51:12 +0600</pubDate>
+      <guid>http://localhost:1313/easygovtc/french/blog/simple-blog-post-3/</guid>
+      <description>&amp;ldquo;Super service et réactif véhicule confortable !!! Je recommande !!&amp;rdquo;</description>
+    </item>
+    <item>
+      <title>Une véritable alternative à Uber </title>
+      <link>http://localhost:1313/easygovtc/french/blog/installation/</link>
+      <pubDate>Tue, 12 Sep 2023 14:51:12 +0600</pubDate>
+      <guid>http://localhost:1313/easygovtc/french/blog/installation/</guid>
+      <description>&amp;ldquo;Ravie de mon trajet, le chauffeur est agréable et expérimenté. Je recommande à tout ceux voulant prendre un vtc en toute sécurité !</description>
+    </item>
+    <item>
+      <title>Confiance et sérénité</title>
+      <link>http://localhost:1313/easygovtc/french/blog/simple-blog-post-2/</link>
+      <pubDate>Sat, 19 Aug 2023 22:52:36 +0600</pubDate>
+      <guid>http://localhost:1313/easygovtc/french/blog/simple-blog-post-2/</guid>
+      <description>&amp;ldquo;Un trajet rapide, un chauffeur fiable et agréable. Je recommande sans soucis&amp;rdquo;</description>
+    </item>
+    <item>
+      <title>Le meileur chauffeur Nantais</title>
+      <link>http://localhost:1313/easygovtc/french/blog/simple-blog-post-1/</link>
+      <pubDate>Tue, 15 Aug 2023 12:52:36 +0600</pubDate>
+      <guid>http://localhost:1313/easygovtc/french/blog/simple-blog-post-1/</guid>
+      <description>&amp;ldquo;Agréable et ponctuel, respectueux et discussion agréable, je recommande et réutiliserai lors de mes déplacements à Nantes :)&amp;rdquo;</description>
+    </item>
+    <item>
       <title>Are You Doing the Right Way</title>
-      <link>http://localhost:1313/easygovtc/blog/simple-blog-post-8/</link>
+      <link>http://localhost:1313/easygovtc/english/blog/simple-blog-post-8/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      <guid>http://localhost:1313/easygovtc/blog/simple-blog-post-8/</guid>
+      <guid>http://localhost:1313/easygovtc/english/blog/simple-blog-post-8/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     <item>
       <title>How To Setup Meghna Hugo</title>
-      <link>http://localhost:1313/easygovtc/blog/installation/</link>
+      <link>http://localhost:1313/easygovtc/english/blog/installation/</link>
       <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      <guid>http://localhost:1313/easygovtc/blog/installation/</guid>
+      <guid>http://localhost:1313/easygovtc/english/blog/installation/</guid>
       <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
     </item>
     <item>
       <title>Simple Blog Post</title>
-      <link>http://localhost:1313/easygovtc/blog/simple-blog-post-1/</link>
+      <link>http://localhost:1313/easygovtc/english/blog/simple-blog-post-1/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/easygovtc/blog/simple-blog-post-1/</guid>
+      <guid>http://localhost:1313/easygovtc/english/blog/simple-blog-post-1/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     <item>
       <title>Simple Blog Post</title>
-      <link>http://localhost:1313/easygovtc/blog/simple-blog-post-2/</link>
+      <link>http://localhost:1313/easygovtc/english/blog/simple-blog-post-2/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/easygovtc/blog/simple-blog-post-2/</guid>
+      <guid>http://localhost:1313/easygovtc/english/blog/simple-blog-post-2/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     <item>
       <title>Simple Blog Post</title>
-      <link>http://localhost:1313/easygovtc/blog/simple-blog-post-3/</link>
+      <link>http://localhost:1313/easygovtc/english/blog/simple-blog-post-3/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/easygovtc/blog/simple-blog-post-3/</guid>
+      <guid>http://localhost:1313/easygovtc/english/blog/simple-blog-post-3/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     <item>
       <title>Simple Blog Post</title>
-      <link>http://localhost:1313/easygovtc/blog/simple-blog-post-4/</link>
+      <link>http://localhost:1313/easygovtc/english/blog/simple-blog-post-4/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/easygovtc/blog/simple-blog-post-4/</guid>
+      <guid>http://localhost:1313/easygovtc/english/blog/simple-blog-post-4/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     <item>
       <title>Simple Blog Post</title>
-      <link>http://localhost:1313/easygovtc/blog/simple-blog-post-5/</link>
+      <link>http://localhost:1313/easygovtc/english/blog/simple-blog-post-5/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/easygovtc/blog/simple-blog-post-5/</guid>
+      <guid>http://localhost:1313/easygovtc/english/blog/simple-blog-post-5/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     <item>
       <title>Simple Blog Post</title>
-      <link>http://localhost:1313/easygovtc/blog/simple-blog-post-6/</link>
+      <link>http://localhost:1313/easygovtc/english/blog/simple-blog-post-6/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/easygovtc/blog/simple-blog-post-6/</guid>
+      <guid>http://localhost:1313/easygovtc/english/blog/simple-blog-post-6/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
     </item>
     <item>
       <title>Simple Blog Post</title>
-      <link>http://localhost:1313/easygovtc/blog/simple-blog-post-7/</link>
+      <link>http://localhost:1313/easygovtc/english/blog/simple-blog-post-7/</link>
       <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/easygovtc/blog/simple-blog-post-7/</guid>
+      <guid>http://localhost:1313/easygovtc/english/blog/simple-blog-post-7/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    <item>
+      <title>Hello, World!</title>
+      <link>http://localhost:1313/easygovtc/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/easygovtc/posts/hello-world/</guid>
+      <description>Hello World! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non lorem diam. Quisque vulputate nibh sodales eros pretium tincidunt.</description>
     </item>
     <item>
       <title>John Doe</title>
-      <link>http://localhost:1313/easygovtc/author/john-doe/</link>
+      <link>http://localhost:1313/easygovtc/english/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/easygovtc/author/john-doe/</guid>
+      <guid>http://localhost:1313/easygovtc/english/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    <item>
+      <title>John Doe</title>
+      <link>http://localhost:1313/easygovtc/french/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/easygovtc/french/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
     <item>
       <title>Mark Dinn</title>
-      <link>http://localhost:1313/easygovtc/author/mark-dinn/</link>
+      <link>http://localhost:1313/easygovtc/english/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/easygovtc/author/mark-dinn/</guid>
+      <guid>http://localhost:1313/easygovtc/english/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    <item>
+      <title>Mark Dinn</title>
+      <link>http://localhost:1313/easygovtc/french/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/easygovtc/french/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    <item>
+      <title>Un magnifique trajet !</title>
+      <link>http://localhost:1313/easygovtc/french/blog/simple-blog-post-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/easygovtc/french/blog/simple-blog-post-8/</guid>
+      <description>Nous avons eu comme chauffeur Moustafa, sur la Baule escoublac que nous avons appelé 4 fois, car nous avons apprécié sa ponctualité, son accueil et sa gentillesse, je recommande vivement !</description>
     </item>
   </channel>
 </rss>

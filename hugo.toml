@@ -1,9 +1,9 @@
 ################################# Default configuration ###################
-baseURL = "https://demo.gethugothemes.com/easygovtc/"
+baseURL = "https://easygovtc.fr/easygovtc/"
 title = "EasygoVTC"
 theme = "meghna-hugo2"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
-timeZone = "America/New_York"
+timeZone = "Europe/Paris"
 # post pagination
 paginate = 6 # see https://gohugo.io/extras/pagination/
 # post excerpt
@@ -89,58 +89,58 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
-[[Languages.en.menu.main]]
-name = "about"
-url = "#about"
-weight = 1
+#[[Languages.en.menu.main]]
+#name = "about"
+#url = "#about"
+#weight = 1
 
-[[Languages.en.menu.main]]
-name = "services"
-url = "#services"
-weight = 2
+#[[Languages.en.menu.main]]
+#name = "services"
+#url = "#services"
+#weight = 2
 
-[[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
-weight = 3
+#[[Languages.en.menu.main]]
+#name = "portfolio"
+#url = "#portfolio"
+#weight = 3
 
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
+#[[Languages.en.menu.main]]
+#name = "team"
+#url = "#team"
+#weight = 4
 
-[[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
+#[[Languages.en.menu.main]]
+#name = "pricing"
+#url = "#pricing"
+#weight = 5
 
-[[Languages.en.menu.main]]
-name = "Avis Clients"
-url = "#blog"
-weight = 6
+#[[Languages.en.menu.main]]
+#name = "Avis Clients"
+#url = "#blog"
+#weight = 6
 
-[[Languages.en.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
+#[Languages.en.menu.main]]
+#name = "contact"
+#url = "#contact"
+#weight = 7
 
 
-[[Languages.en.menu.main]]
-name = "Dropdown"
-weight = 7
-hasChildren = true
+#[[Languages.en.menu.main]]
+#name = "Dropdown"
+#weight = 7
+#hasChildren = true
 
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 1"
-url = "#"
-weight = 1
+#[[Languages.en.menu.main]]
+#parent = "Dropdown"
+#name = "Dropdown 1"
+#url = "#"
+#weight = 1
 
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 2"
-url = "#"
-weight = 2
+#[[Languages.en.menu.main]]
+#parent = "Dropdown"
+#name = "Dropdown 2"
+#url = "#"
+#weight = 2
 
 #[[Languages.en.menu.main]]
 #name = "themefisher"
@@ -241,14 +241,14 @@ link = "https://www.tiktok.com/@sayian_supa_family"
 
 ################################ English Language ########################
 [Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
+#languageName = "En"
+#languageCode = "en-us"
+#contentDir = "content/english"
 
 [Languages.en.params]
-weight = 2
-home = "Home"
-copyright = "Copyright &copy; 2024 Designed by [Ismael Benhaddou](https://themefisher.com) & Developed by [Ismael Benhaddou](https://gethugothemes.com)"
+#weight = 2
+#home = "Home"
+#copyright = "Copyright &copy; 2024 Designed by [Ismael Benhaddou](https://themefisher.com) & Developed by [Ismael Benhaddou](https://gethugothemes.com)"
 
 ################################ France Language ########################
 [Languages.fr]

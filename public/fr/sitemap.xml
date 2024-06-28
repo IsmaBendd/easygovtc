@@ -4,22 +4,12 @@
   <url>
     <loc>http://localhost:1313/easygovtc/fr/blog/</loc>
     <lastmod>2023-09-23T12:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/easygovtc/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/easygovtc/fr/blog/"
-                />
   </url><url>
     <loc>http://localhost:1313/easygovtc/fr/</loc>
     <lastmod>2023-09-23T12:51:12+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="http://localhost:1313/easygovtc/"
                 />
     <xhtml:link
@@ -30,72 +20,22 @@
   </url><url>
     <loc>http://localhost:1313/easygovtc/fr/blog/simple-blog-post-3/</loc>
     <lastmod>2023-09-23T12:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/easygovtc/blog/simple-blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/easygovtc/fr/blog/simple-blog-post-3/"
-                />
   </url><url>
     <loc>http://localhost:1313/easygovtc/fr/blog/installation/</loc>
     <lastmod>2023-09-12T14:51:12+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/easygovtc/blog/installation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/easygovtc/fr/blog/installation/"
-                />
   </url><url>
     <loc>http://localhost:1313/easygovtc/fr/blog/simple-blog-post-2/</loc>
     <lastmod>2023-08-19T22:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/easygovtc/blog/simple-blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/easygovtc/fr/blog/simple-blog-post-2/"
-                />
   </url><url>
     <loc>http://localhost:1313/easygovtc/fr/blog/simple-blog-post-1/</loc>
     <lastmod>2023-08-15T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/easygovtc/blog/simple-blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/easygovtc/fr/blog/simple-blog-post-1/"
-                />
   </url><url>
     <loc>http://localhost:1313/easygovtc/fr/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/easygovtc/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/easygovtc/fr/author/"
-                />
   </url><url>
     <loc>http://localhost:1313/easygovtc/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="http://localhost:1313/easygovtc/categories/"
                 />
     <xhtml:link
@@ -105,33 +45,13 @@
                 />
   </url><url>
     <loc>http://localhost:1313/easygovtc/fr/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/easygovtc/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/easygovtc/fr/author/john-doe/"
-                />
   </url><url>
     <loc>http://localhost:1313/easygovtc/fr/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/easygovtc/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/easygovtc/fr/author/mark-dinn/"
-                />
   </url><url>
     <loc>http://localhost:1313/easygovtc/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
+                hreflang="en"
                 href="http://localhost:1313/easygovtc/tags/"
                 />
     <xhtml:link
@@ -141,15 +61,5 @@
                 />
   </url><url>
     <loc>http://localhost:1313/easygovtc/fr/blog/simple-blog-post-8/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/easygovtc/blog/simple-blog-post-8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:1313/easygovtc/fr/blog/simple-blog-post-8/"
-                />
   </url>
 </urlset>
