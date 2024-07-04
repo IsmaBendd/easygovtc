@@ -60,7 +60,7 @@ params:
   logo: images/logo2.png
   description: ""
   author: Ismael Benhaddou
-  google_analytics_id: "G-VN5MNXFJ7X"
+  google_analytics_id: ""
   post_share: true
   preloader:
     enable: false
@@ -76,7 +76,7 @@ params:
     map_marker: images/marker.png
   social:
   - icon: ti-email
-    link: email:easygovtc@gmail.com
+    link: emailto:easygovtc@gmail.com
   - icon: ti-apple
     link: tel:+33659332781
   - icon: ti-google
