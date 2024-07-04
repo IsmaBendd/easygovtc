@@ -17,16 +17,16 @@ build:
   buildStats:
     enable: true
   cachebusters:
-    - source: assets/.*\.(js|ts|jsx|tsx)
-      target: (js|scripts|javascript)
-    - source: assets/.*\.(css|sass|scss)$
-      target: (css|styles|scss|sass)
-    - source: assets/.*\.(.*)$
-      target: $1
+  - source: assets/.*\.(js|ts|jsx|tsx)
+    target: (js|scripts|javascript)
+  - source: assets/.*\.(css|sass|scss)$
+    target: (css|styles|scss|sass)
+  - source: assets/.*\.(.*)$
+    target: $1
 outputs:
   home:
-    - HTML
-    - RSS
+  - HTML
+  - RSS
 imaging:
   quality: 90
   resampleFilter: lanczos
@@ -44,19 +44,19 @@ markup:
 params:
   plugins:
     css:
-      - link: plugins/bootstrap/bootstrap.min.css
-      - link: plugins/themify-icons/themify-icons.css
-      - link: plugins/magnific-popup/magnific-popup.css
-      - link: plugins/slick/slick.css
-      - link: https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap
+    - link: plugins/bootstrap/bootstrap.min.css
+    - link: plugins/themify-icons/themify-icons.css
+    - link: plugins/magnific-popup/magnific-popup.css
+    - link: plugins/slick/slick.css
+    - link: https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap
     js:
-      - link: plugins/jquery/jquery.min.js
-      - link: plugins/bootstrap/bootstrap.min.js
-      - link: plugins/slick/slick.min.js
-      - link: plugins/shuffle/shuffle.min.js
-      - link: plugins/magnific-popup/jquery.magnific-popup.min.js
-      - link: plugins/lazy-load/lozad.min.js
-      - link: plugins/google-map/map.js
+    - link: plugins/jquery/jquery.min.js
+    - link: plugins/bootstrap/bootstrap.min.js
+    - link: plugins/slick/slick.min.js
+    - link: plugins/shuffle/shuffle.min.js
+    - link: plugins/magnific-popup/jquery.magnific-popup.min.js
+    - link: plugins/lazy-load/lozad.min.js
+    - link: plugins/google-map/map.js
   logo: images/logo2.png
   description: ""
   author: Ismael Benhaddou
@@ -75,42 +75,40 @@ params:
     map_longitude: "-0.1622023"
     map_marker: images/marker.png
   social:
-    - icon: ti-email
-      link: email:easygovtc@gmail.com
-    - icon: ti-apple
-      link: tel:+33659332781
-    - icon: ti-google
-      link: https://g.co/kgs/Uo9rqA5
-    - icon: ti-video-camera
-      link: https://www.tiktok.com/@sayian_supa_family
+  - icon: ti-email
+    link: email:easygovtc@gmail.com
+  - icon: ti-apple
+    link: tel:+33659332781
+  - icon: ti-google
+    link: https://g.co/kgs/Uo9rqA5
+  - icon: ti-video-camera
+    link: https://www.tiktok.com/@sayian_supa_family
 Languages:
   fr:
     menu:
       main:
-        - name: Votre Service de Transport VTC
-          url: "#about"
-          weight: 1
-        - name: Nos Services
-          url: "#services"
-          weight: 3
-        - name: Expérience
-          url: "#feature"
-          weight: 2
-        - name: Avis Clients
-          url: "#blog"
-          weight: 5
-        - name: Nous contacter
-          url: "#contact"
-          weight: 7
+      - name: Votre Service de Transport VTC
+        url: "#about"
+        weight: 1
+      - name: Nos Services
+        url: "#services"
+        weight: 3
+      - name: Expérience
+        url: "#feature"
+        weight: 2
+      - name: Avis Clients
+        url: "#blog"
+        weight: 5
+      - name: Nous contacter
+        url: "#contact"
+        weight: 7
     languageName: Fr
     languageCode: fr-fr
     contentDir: content/french
     weight: 1
     params:
       home: Accueil
-      copyright: Copyright &copy; 2024 Designed by [Ismael
-        Benhaddou](https://themefisher.com) & Developed by [Ismael
-        Benhaddou](https://gethugothemes.com)
+      copyright: Copyright &copy; 2024 Designed by [Ismael Benhaddou](https://themefisher.com) & Developed by [Ismael Benhaddou](https://gethugothemes.com)
   en:
     disabled: true
     languageCode: ""
