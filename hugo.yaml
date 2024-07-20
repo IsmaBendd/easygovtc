@@ -7,7 +7,7 @@ defaultContentLanguageInSubdir: true
 timeZone: Europe/Paris
 paginate: 6
 summaryLength: 15
-googleAnalytics: UA-123456-78
+googleAnalytics: AW-16644461560
 disqusShortname: themefisher-template
 disableLanguages: []
 hasCJKLanguage: false
@@ -60,7 +60,7 @@ params:
   logo: images/logo2.png
   description: ""
   author: Ismael Benhaddou
-  google_analytics_id: ""
+  google_analytics_id: "AW-16644461560"
   post_share: true
   preloader:
     enable: false
